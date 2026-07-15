@@ -1,0 +1,43 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f5e7c0;
+}
+
+.container{
+    width:350px;
+    margin:50px auto;
+    background:rgb(125, 102, 51);
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0px 0px 10px gray;
+}
+
+h1{
+    text-align:center;
+}
+
+input{
+    width:100%;
+    padding:10px;
+    margin:10px 0;
+    box-sizing:border-box;
+}
+
+button{
+    width:100%;
+    padding:12px;
+    background:#000000;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#084298;
+}
+
+#message{
+    margin-top:15px;
+    text-align:center;
+    font-weight:bold;
+}
